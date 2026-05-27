@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">مشغل IPTV</string>
+    <string name="app_desc">مشغل قنوات وبث تلفزيوني ذكي واحترافي</string>
+    
+    <!-- Navigation / General -->
+    <string name="nav_home">الرئيسية</string>
+    <string name="nav_categories">الأقسام</string>
+    <string name="nav_favorites">المفضلة</string>
+    <string name="nav_recent">آخر مشاهدة</string>
+    <string name="nav_settings">الإعدادات</string>
+    <string name="back">رجوع</string>
+    <string name="close">إغلاق</string>
+    
+    <!-- Login / Setup Playlist -->
+    <string name="setup_title">اختر مزود IPTV</string>
+    <string name="setup_subtitle">اتصل عبر رابط ملف M3U أو بيانات Xtream Codes API بشكل آمن وقانوني</string>
+    <string name="playlist_type_m3u">رابط قائمة M3U</string>
+    <string name="playlist_type_xtream">حساب اكستريم كود (Xtream)</string>
+    
+    <string name="auto_setup_title">الإعداد التلقائي السريع ⚡</string>
+    <string name="auto_setup_desc">حمّل قنوات بث تلفزيوني مجانية ومفتوحة فوراً ومباشرة دون الحاجة لإدخال روابط يدوياً.</string>
+    <string name="btn_load_arabic_channels">تحميل القنوات العربية المفتوحة</string>
+    <string name="btn_load_global_news">تحميل القنوات الإخبارية العالمية</string>
+    <string name="auto_loading">جاري تحميل قائمة البث التلقائية، يرجى الانتظار...</string>
+    
+    <string name="field_playlist_name">اسم القائمة</string>
+    <string name="field_m3u_url">رابط ملف M3U (URL)</string>
+    <string name="field_host_url">رابط السيرفر (http://host:port)</string>
+    <string name="field_username">اسم المستخدم</string>
+    <string name="field_password">كلمة المرور</string>
+    
+    <string name="btn_connect">اتصال وتحميل</string>
+    <string name="btn_cancel">إلغاء</string>
+    <string name="btn_save">حفظ القائمة</string>
+    <string name="btn_delete">حذف</string>
+    
+    <!-- Validation / Loading -->
+    <string name="loading_playlist">جاري تحميل قائمة التشغيل، يرجى الانتظار...</string>
+    <string name="loading_channels">جاري معالجة القنوات وسجل البث...</string>
+    <string name="error_invalid_url">يرجى إدخال رابط صالح ومكتمل</string>
+    <string name="error_empty_fields">يرجى ملء جميع الخانات المطلوبة</string>
+    <string name="error_failed_to_load">فشل الاتصال والتحميل. تأكد من صحة البيانات أو الاتصال بالإنترنت.</string>
+    
+    <!-- Dashboard / Mains -->
+    <string name="welcome">مرحباً بك في مشغل IPTV</string>
+    <string name="welcome_sub">استمتع بمشاهدة قنوات البث التلفزيون القانونية بأعلى جودة</string>
+    <string name="search_hint">ابحث باسم القناة...</string>
+    <string name="category_all">كل القنوات</string>
+    
+    <string name="no_favorites_title">لا توجد قنوات مفضلة</string>
+    <string name="no_favorites_desc">اضغط على زر القلب عند تصفح أي قناة لإضافتها هنا للوصول السريع.</string>
+    <string name="no_recent_title">سجل المشاهدة فارغ</string>
+    <string name="no_recent_desc">القنوات التي تشاهدها مؤخراً سوف تظهر هنا لسهولة الرجوع إليها.</string>
+    <string name="no_channels_title">لم يتم العثور على قنوات</string>
+    <string name="no_channels_desc">لا توجد قنوات تطابق الكلمات المدخلة أو القسم المحدد حالياً.</string>
+    
+    <!-- Player Controls -->
+    <string name="player_aspect_ratio">أبعاد الشاشة</string>
+    <string name="player_fit">ملء الشاشة</string>
+    <string name="player_subtitles">الترجمة المصاحبة</string>
+    <string name="player_quality">مستوى الجودة</string>
+    <string name="player_live">مباشر</string>
+    
+    <!-- Settings -->
+    <string name="settings_title">إعدادات التطبيق</string>
+    <string name="set_theme">مظهر التطبيق (فاتح / داكن)</string>
+    <string name="set_dark_mode">تفعيل المظهر الداكن دائماً</string>
+    <string name="set_lang">لغة التطبيق</string>
+    <string name="set_lang_desc">تغيير لغة العرض (العربية / English)</string>
+    <string name="set_playlist">قائمة التشغيل النشطة</string>
+    <string name="set_playlist_desc">إدارة والتبديل بين القوائم المحفوظة</string>
+    <string name="set_clear_cache">مسح الذاكرة المؤقتة</string>
+    <string name="set_clear_cache_desc">حذف القنوات المخزنة والبيانات المؤقتة</string>
+    <string name="info_title">حول مشغل IPTV</string>
+    <string name="info_desc">تطبيق مرخص وآمن لتشغيل ملفات M3U واكستريم كود للبث المباشر. لا ندمج أو نوفر أي قنوات مسبقة.</string>
+</resources>

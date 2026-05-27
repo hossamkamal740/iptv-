@@ -1,0 +1,6 @@
+{
+  "name": "IPTV Player",
+  "description": "A professional Android IPTV player supporting M3U playlists and Xtream Codes API with localized Arabic and English interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
